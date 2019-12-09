@@ -49,15 +49,15 @@ Number
 
 | key | value |
 | --- | ----- |
-| 0   | NO    |
-| 1   | YES   |
+| 0   | no    |
+| 1   | yes   |
 
 ### PROF24 (Are you working by your specialty?)
 
 | key | value |
 | --- | ----- |
-| 0   | NO    |
-| 1   | YES   |
+| 0   | no    |
+| 1   | yes   |
 
 ### PROF25 (Did your status (responsibility) at work change over the last years?)
 
@@ -77,7 +77,8 @@ Number
 | --- | ----------- |
 | 0   | retired     |
 | 1   | lost of job |
-| 2   | student     |  | 3 | invalid |
+| 2   | student     |
+| 3   | invalid     |
 | 4   | housewife   |
 
 ### PROF28 (How long (months) are you unemployed?)
@@ -134,10 +135,10 @@ Number
 
 ### RHEUMATIC (Rheumatic heart disease (weak heart))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE31 (Age when rheumatic heart disease (weak heart) was first diagnosed)
 
@@ -145,17 +146,17 @@ Number
 
 ### PROBLEM31 (Do you have any important problems with rheumatic heart disease (weak heart))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### ANGINA (Angina (heart painworsened by effort))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE32 (Age when Angina (heart painworsened by effort) was first diagnosed)
 
@@ -163,17 +164,17 @@ Number
 
 ### PROBLEM32 (Do you have any important problems with Angina (heart painworsened by effort))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### INFARCTION (Heart attack (infarction))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE33 (Age when Heart attack (infarction) was first diagnosed)
 
@@ -181,17 +182,17 @@ Number
 
 ### PROBLEM33 (Do you have any important problems with Heart attack (infarction))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### FAILURE (Heart failure)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE34 (Age when Heart failure was first diagnosed)
 
@@ -199,17 +200,17 @@ Number
 
 ### PROBLEM34 (Do you have any important problems with Heart failure)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### STROKE (Stroke)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE35 (Age when Stroke was first diagnosed)
 
@@ -217,17 +218,17 @@ Number
 
 ### PROBLEM35 (Do you have any important problems with Stroke)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### HYPERTENSION (Hypertension)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE36 (Age when Hypertension was first diagnosed)
 
@@ -235,17 +236,17 @@ Number
 
 ### PROBLEM36 (Do you have any important problems with Hypertension)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### COPD (COPD)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE37 (Age when COPD was first diagnosed)
 
@@ -253,17 +254,17 @@ Number
 
 ### PROBLEM37 (Do you have any important problems with COPD)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### CANCER (Neoplasm (cancer))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### SITE (Site of origin)
 
@@ -294,17 +295,17 @@ Number
 
 ### PROBLEM38 (Do you have any important problems with Site of origin)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### TUBERCULOSIS (Tuberculosis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE39 (Age when Tuberculosis was first diagnosed)
 
@@ -312,17 +313,17 @@ Number
 
 ### PROBLEM39 (Do you have any important problems with Tuberculosis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### CIRRHOSIS (Liver cirrhosis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE310 (Age when Liver cirrhosis was first diagnosed)
 
@@ -330,17 +331,17 @@ Number
 
 ### PROBLEM310 (Do you have any important problems with Liver cirrhosis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### HEPATITIS (Chronic hepatitis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE311 (Age when Chronic hepatitis was first diagnosed)
 
@@ -348,17 +349,17 @@ Number
 
 ### PROBLEM311 (Do you have any important problems with Chronic hepatitis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### CHOLECYSTITIS (Cholelithiasis and cholecystitis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE312 (Age when Cholelithiasis and cholecystitis was first diagnosed))
 
@@ -366,17 +367,17 @@ Number
 
 ### PROBLEM312 (Do you have any important problems with Cholelithiasis and cholecystitis)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### ULCER (Gastric ulcer)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE313 (Age when Gastric ulcer was first diagnosed)
 
@@ -384,17 +385,17 @@ Number
 
 ### PROBLEM313 (Do you have any important problems with Gastric ulcer)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### POLYPUS (Colon-rectal polypus)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE314 (Age when Colon-rectal polypus was first diagnosed)
 
@@ -402,17 +403,17 @@ Number
 
 ### PROBLEM314 (Do you have any important problems with Colon-rectal polypus)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### DIABETES (Diabetes mellitus)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE315 (Age when Diabetes mellitus was first diagnosed)
 
@@ -420,17 +421,17 @@ Number
 
 ### PROBLEM315 (Do you have any important problems with Diabetes mellitus)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### DEPRESSION (Severe depression)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE316 (Age when Severe depression was first diagnosed)
 
@@ -438,17 +439,17 @@ Number
 
 ### PROBLEM316 (Do you have any important problems with Severe depression)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### DISABILITY (Disability)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### AGE317 (Age when Disability was first diagnosed)
 
@@ -456,45 +457,45 @@ Number
 
 ### PROBLEM317 (Do you have any important problems with Disability)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### MEDICATION (Any medication on most days during the last year?)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### ANTIDIABETIC (Antidiabetic)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### HYPOTENSIVE (Antihypertensive)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### ANTIINFLAM (Anti-inflammatory (e.g. aspirin))
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### OTHERMED (Other daily)
 
-| key | value                      |
-| --- | -------------------------- |
-| 0   | definitely or probably No  |
-| 1   | definitely or probably Yes |
+| key | value |
+| --- | ----- |
+| 0   | no    |
+| 1   | yes   |
 
 ### SMOKING (Do you smoke?)
 
